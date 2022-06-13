@@ -1,0 +1,13 @@
+[2022-06-13T18:12:50.422Z] Log level: Info
+[2022-06-13T18:12:50.422Z] [info] Validating found git in: git
+[2022-06-13T18:12:50.467Z] [info] Using git 2.36.1 from git
+[2022-06-13T18:12:50.542Z] > git rev-parse --show-toplevel [57ms]
+[2022-06-13T18:12:50.542Z] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+[2022-06-13T18:12:50.562Z] > git rev-parse --show-toplevel [13ms]
+[2022-06-13T18:12:50.579Z] > git rev-parse --git-dir --git-common-dir [10ms]
+[2022-06-13T18:12:50.583Z] [info] Open repository: /home/dan
+[2022-06-13T18:12:50.617Z] > git fetch --all [26ms]
+[2022-06-13T18:12:51.340Z] > git status -z -uall [742ms]
+[2022-06-13T18:12:51.340Z] > git check-ignore -v -z --stdin [200ms]
+[2022-06-13T18:12:52.635Z] > git check-ignore -v -z --stdin [663ms]

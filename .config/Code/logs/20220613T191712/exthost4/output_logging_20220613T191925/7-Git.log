@@ -1,0 +1,21 @@
+[2022-06-13T18:19:26.170Z] Log level: Info
+[2022-06-13T18:19:26.170Z] [info] Validating found git in: git
+[2022-06-13T18:19:26.217Z] [info] Using git 2.36.1 from git
+[2022-06-13T18:19:26.235Z] > git rev-parse --show-toplevel [10ms]
+[2022-06-13T18:19:26.858Z] > git rev-parse --git-dir --git-common-dir [619ms]
+[2022-06-13T18:19:26.861Z] [info] Open repository: /home/dan/dotfiles
+[2022-06-13T18:19:26.875Z] > git status -z -uall [1ms]
+[2022-06-13T18:19:26.881Z] > git fetch --all [13ms]
+[2022-06-13T18:19:26.891Z] > git symbolic-ref --short HEAD [10ms]
+[2022-06-13T18:19:26.908Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+[2022-06-13T18:19:26.920Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [7ms]
+[2022-06-13T18:19:26.920Z] > git remote --verbose [3ms]
+[2022-06-13T18:19:26.931Z] > git config --get commit.template [5ms]
+[2022-06-13T18:19:26.949Z] > git status -z -uall [11ms]
+[2022-06-13T18:19:26.955Z] > git config --local branch.master.github-pr-owner-number [8ms]
+[2022-06-13T18:19:26.965Z] > git symbolic-ref --short HEAD [11ms]
+[2022-06-13T18:19:26.972Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-06-13T18:19:26.985Z] > git remote --verbose [2ms]
+[2022-06-13T18:19:26.986Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+[2022-06-13T18:19:26.996Z] > git config --get commit.template [4ms]
+[2022-06-13T18:19:32.115Z] > git check-ignore -v -z --stdin [0ms]

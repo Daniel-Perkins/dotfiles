@@ -1,0 +1,16 @@
+[Info] /home/dan/.ssh/config: ENOENT: no such file or directory, open '/home/dan/.ssh/config'
+[Info] Looking for git repository
+[Info] Found 0 repositories during activation
+[Info] Git repository found, initializing review manager and pr tree view.
+[Info] Registering git provider
+[Info] Repository file:///home/dan has been opened
+[Info] Review> Validate state in progress
+[Info] Review> Validating state...
+[Info] Cannot updates repositories as git is uninitialized
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] Git initialization state changed: state=initialized
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] No remotes found. The following remotes are missing: origin, upstream
+[Info] No GitHub remotes found
+[Info] PullRequestTree> Removing PR #undefined from tree

@@ -1,0 +1,10 @@
+[2022-06-13T18:15:30.858Z] Log level: Info
+[2022-06-13T18:15:30.858Z] [info] Validating found git in: git
+[2022-06-13T18:15:30.926Z] [info] Using git 2.36.1 from git
+[2022-06-13T18:15:30.946Z] > git rev-parse --show-toplevel [12ms]
+[2022-06-13T18:15:30.955Z] > git rev-parse --git-dir --git-common-dir [4ms]
+[2022-06-13T18:15:30.958Z] [info] Open repository: /home/dan
+[2022-06-13T18:15:31.603Z] > git fetch --all [640ms]
+[2022-06-13T18:15:31.655Z] > git status -z -uall [689ms]
+[2022-06-13T18:15:32.169Z] > git check-ignore -v -z --stdin [11ms]
+[2022-06-13T18:15:47.091Z] > git check-ignore -v -z --stdin [0ms]

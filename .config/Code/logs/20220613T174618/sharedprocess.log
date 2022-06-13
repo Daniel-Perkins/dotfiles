@@ -1,0 +1,13 @@
+[2022-06-13 17:46:20.464] [sharedprocess] [info] Starting worker process with pid 844 (type: fileWatcher, window: 1).
+[2022-06-13 19:12:47.930] [sharedprocess] [info] Starting worker process with pid 3779 (type: fileWatcher, window: 3).
+[2022-06-13 19:13:10.726] [sharedprocess] [info] Worker process with pid 3779 terminated normally (type: fileWatcher, window: 3).
+[2022-06-13 19:13:14.255] [sharedprocess] [info] Starting worker process with pid 4120 (type: fileWatcher, window: 4).
+[2022-06-13 19:13:15.184] [sharedprocess] [info] Worker process with pid 844 terminated normally (type: fileWatcher, window: 1).
+[2022-06-13 19:15:03.175] [sharedprocess] [info] Starting worker process with pid 4516 (type: fileWatcher, window: 5).
+[2022-06-13 19:15:19.710] [sharedprocess] [info] Worker process with pid 4120 terminated normally (type: fileWatcher, window: 4).
+[2022-06-13 19:15:29.288] [sharedprocess] [info] Worker process with pid 4516 terminated normally (type: fileWatcher, window: 5).
+[2022-06-13 19:15:29.923] [sharedprocess] [info] Starting worker process with pid 4649 (type: fileWatcher, window: 5).
+[2022-06-13 19:15:36.537] [sharedprocess] [info] Starting worker process with pid 4915 (type: fileWatcher, window: 6).
+[2022-06-13 19:15:48.915] [sharedprocess] [info] Worker process with pid 4915 terminated normally (type: fileWatcher, window: 6).
+[2022-06-13 19:15:49.454] [sharedprocess] [info] Starting worker process with pid 4977 (type: fileWatcher, window: 6).
+[2022-06-13 19:17:08.712] [sharedprocess] [info] Worker process with pid 4977 terminated normally (type: fileWatcher, window: 6).
